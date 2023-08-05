@@ -2,7 +2,7 @@
 
 A simple Streamlit app that allows users to enter a prompt and generate text based on the prompt.
 
-# Instalation
+# installation
 
       !pip install -r requirements.txt
 
